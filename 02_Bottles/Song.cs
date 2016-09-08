@@ -7,7 +7,7 @@ namespace _02_Bottles
         internal string CountBottles(int v)
         {
             string CompleteSong = " ";
-            string Bottle = "bottles";
+            string Bottle = "bottle";
             bool V1 = true;
             for (int i = v; i >= 0; i--)
             {
